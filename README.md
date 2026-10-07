@@ -9,3 +9,9 @@
   <a href="https://www.discogs.com/user/Mirko_Okrim"><img alt="discogs: Mirko_Okrim" src="https://img.shields.io/badge/discogs-Mirko__Okrim-ff6b4a?style=flat-square&logo=discogs&logoColor=ffb347&labelColor=080703"></a>
   <img alt="discord: mirko.wav" src="https://img.shields.io/badge/discord-mirko.wav-ff6b4a?style=flat-square&logo=discord&logoColor=ffb347&labelColor=080703">
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fyicoco/fyicoco/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fyicoco/fyicoco/output/snake-light.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/fyicoco/fyicoco/output/snake-dark.svg" width="100%">
+</picture>
